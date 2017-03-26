@@ -1,0 +1,26 @@
+2017-03-22 14:08:53 INFO  FizzBuzz:13 -  1  2  fizz  4  buzz  fizz  7  8  fizz  buzz  11  fizz  13  14  fizzbuzz  16  17  fizz  19  buzz 
+ 2017-03-22 16:17:56 INFO  App:13 - 1 2 lucky 4 buzz fizz 7 8 fizz buzz 11 fizz lucky 14 fizzbuzz 16 17 fizz 19 buzz 
+fizz: 4
+buzz: 7
+ 2017-03-22 16:19:04 INFO  App:13 - 1 2 lucky 4 buzz fizz 7 8 fizz buzz 11 fizz lucky 14 fizzbuzz 16 17 fizz 19 buzz 
+fizz: 4
+buzz: 3
+ 2017-03-22 16:21:44 INFO  App:13 - 1 2 lucky 4 buzz fizz 7 8 fizz buzz 11 fizz lucky 14 fizzbuzz 16 17 fizz 19 buzz 
+fizz: 4
+buzz: 3
+fizzbuzz: 1
+luck: 2
+number: 10
+ 2017-03-22 16:25:39 INFO  App:13 - 1 2 lucky 4 buzz fizz 7 8 fizz buzz 11 fizz lucky 14 fizzbuzz 16 17 fizz 19 buzz 
+fizz: 4
+buzz: 3
+fizzbuzz: 1
+luck: 2
+number: 10
+ 2017-03-26 21:11:33 INFO  App:13 - 1 2 lucky 4 buzz fizz 7 8 fizz buzz 11 fizz lucky 14 fizzbuzz 16 17 fizz 19 buzz 
+fizz: 4
+buzz: 3
+fizzbuzz: 1
+lucky: 2
+number: 10
+ 
